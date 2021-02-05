@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* .container {
+  position: relative;
+  min-height: 100%;
+} */
+.container-top {
+  display: flex;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+
+.container-img {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+.title {
+  margin: 50px;
+  text-align: center;
+}
+
+.container-select {
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-flag {
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-cards {
+  display: inline;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #70c0a7;
+}
+
+.container-center {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 100px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
