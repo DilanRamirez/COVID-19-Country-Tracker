@@ -11,7 +11,7 @@ The animations within the app are from Lottie JS which is a JavaScript library i
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![css](https://img.icons8.com/ultraviolet/48/000000/css.png)
 ![css](https://img.icons8.com/color/48/000000/bootstrap.png)
-![css](https://material-ui.com/static/logo.png)
+<img src="https://material-ui.com/static/logo.png" width="80" height="80">
 ![css](https://img.icons8.com/color/48/000000/react-native.png)
 
 ## Available Scripts
