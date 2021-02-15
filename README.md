@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ![HTML](https://github.com/DilanRamirez/COVID-19-Country-Tracker/blob/main/COVID-10-Country.png)
 
 
