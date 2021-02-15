@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+COVID-19 Country Tracker is a React JS web application develop by Dilan Ramirez. It uses data from mathdroid/covid-19-api and restcountries.eu.
+
+The main objective of this web application is to learn and practice my React JS skills and throughout components and prop states. It alse uses some chart vizualizations from Chart JS.
+
+The animations within the app are from Lottie JS which is a JavaScript library incorporated in this case to React. Moreover, I use Material UI library to incorporate this Material Design to my application.
+
+## Used
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![css](https://img.icons8.com/ultraviolet/48/000000/css.png)
+![css](https://img.icons8.com/color/48/000000/bootstrap.png)
+![css](https://material-ui.com/static/logo.png)
+![css](https://img.icons8.com/color/48/000000/react-native.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
