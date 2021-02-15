@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![HTML](https://github.com/DilanRamirez/COVID-19-Country-Tracker/blob/main/COVID-10-Country.png)
+
 
 ## About
 COVID-19 Country Tracker is a React JS web application develop by Dilan Ramirez. It uses data from mathdroid/covid-19-api and restcountries.eu.
